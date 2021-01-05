@@ -1,4 +1,5 @@
-# vue-project
+# Thiccumary
+This is a workout library application
 
 ## Project setup
 ```
